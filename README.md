@@ -78,7 +78,7 @@
 
 Στους παρακάτω πίνακες παραθέτουμε το Power, το Energy (PDP) και το EDP για κάθε benchmark ξεχωριστά. Ο υπολογισμός των προαναφερθέντων έγινε με τους τύπους:
 
-> P = P<sub>dynamic</sub>  + P<sub>leakage</sub> = Runtime Dynamic * Time + Subthreshold Leakage + Gate Leakage (αθροιστικά για core και L2 cache) 
+> P = P<sub>dynamic</sub>  + P<sub>leakage</sub> = Runtime Dynamic + Subthreshold Leakage + Gate Leakage (αθροιστικά για core και L2 cache) 
 
 > Energy = Power * Time
 
